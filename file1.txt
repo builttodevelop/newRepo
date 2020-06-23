@@ -1,1 +1,3 @@
 Writting to file1.txt for practice.
+
+Second line.
